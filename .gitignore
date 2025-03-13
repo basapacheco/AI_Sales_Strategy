@@ -1,16 +1,2 @@
-# Ignorar el entorno virtual de Python
-ai_sales_env/
-
-# Ignorar archivos de configuración y caché de Jupyter Notebook
-.ipynb_checkpoints/
-
-# Ignorar archivos del sistema MacOS
-.DS_Store
-
-# Ignorar archivos temporales de bases de datos
-database/.DS_Store
-database/.ipynb_checkpoints/
-
-# Ignorar carpetas de dependencias
-__pycache__/
+gitignore/
 
