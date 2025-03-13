@@ -2,6 +2,8 @@
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
+
+
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
@@ -199,3 +201,76 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+=======
+# AI Sales Strategy - LICENCIA PROPIETARIA
+
+## **COPYRIGHT (c) 2025 Pablo Basa. TODOS LOS DERECHOS RESERVADOS.**
+
+---
+
+## **1. TITULARIDAD Y DERECHOS DE AUTOR**
+Este software, denominado **AI Sales Strategy**, incluyendo pero no limitado a su código fuente, documentación, diseño, funcionalidades, estructura de datos, lógica de negocio, y cualquier otro elemento relacionado con su desarrollo, es propiedad exclusiva de **Pablo Basa**.  
+
+📌 **Derechos Reservados:**  
+- **Pablo Basa es el único titular de los derechos de autor de este software.**  
+- Cualquier uso, reproducción, modificación, distribución o explotación sin la autorización expresa y por escrito del titular constituye una violación de derechos de autor y estará sujeta a acciones legales.  
+- El software está protegido bajo las leyes de derechos de autor vigentes a nivel nacional e internacional.  
+
+📌 **Declaración de Originalidad:**  
+Este software ha sido desarrollado de manera independiente por Pablo Basa.  
+Cualquier **similitud con otro software, código fuente o sistema es mera coincidencia**.  
+
+---
+
+## **2. USO PERMITIDO**
+Este software es exclusivamente para uso **privado e interno** del autor.  
+
+🔹 **NO se autoriza el uso del software sin el consentimiento explícito del titular.**  
+🔹 **NO se permite su uso en entornos comerciales sin licencia.**  
+🔹 **NO se permite su integración, parcial o total, en otros sistemas sin autorización.**  
+
+Si deseas obtener **una licencia comercial** para este software, debes contactar directamente al autor.  
+
+---
+
+## **3. PROHIBICIONES**
+❌ **Queda expresamente prohibido:**  
+1. **Copiar, distribuir o compartir** este software en cualquier forma, gratuita o comercialmente.  
+2. **Modificar, descompilar o realizar ingeniería inversa** sobre el código fuente.  
+3. **Utilizar fragmentos del código en otros proyectos** sin autorización.  
+4. **Ceder, vender o sublicenciar** este software sin consentimiento expreso del titular.  
+5. **Publicar o divulgar cualquier parte del software** en internet, redes sociales o foros.  
+
+---
+
+## **4. SOLICITUD DE LICENCIA COMERCIAL**
+📌 **Si deseas utilizar este software para fines comerciales o empresariales, debes obtener una licencia formal.**  
+
+✉️ **Correo de contacto:** basapacheco@gmail.com  
+🔗 **LinkedIn:** [Pablo Basa Pacheco](https://www.linkedin.com/in/pablobasadata/)  
+
+---
+
+## **5. EXENCIÓN DE GARANTÍA**
+📌 **Este software se proporciona "TAL CUAL", sin garantía de ningún tipo.**  
+
+- **NO se garantiza su funcionamiento sin errores o interrupciones.**  
+- **NO se garantiza que cumpla con necesidades específicas de terceros.**  
+- **NO se ofrece soporte técnico ni actualizaciones automáticas.**  
+- **El autor NO es responsable por fallos, pérdidas de datos o cualquier otro daño derivado del uso del software.**  
+
+Cualquier uso del software es **bajo el propio riesgo del usuario**.  
+
+---
+
+## **6. RESPONSABILIDAD LEGAL**
+📌 **Cualquier uso indebido de este software dará lugar a acciones legales.**  
+
+- **Cualquier intento de uso, distribución o modificación sin autorización será considerado una infracción de derechos de autor.**  
+- **El titular se reserva el derecho de emprender acciones legales contra cualquier persona o entidad que incumpla esta licencia.**  
+- **Las disputas derivadas de este acuerdo estarán sujetas a la legislación vigente en la jurisdicción del titular.**  
+
+---
+
+📌 **Cualquier duda sobre la licencia o su aplicación debe ser consultada directamente con el autor.**
+>>>>>>> dadd599 (Readme & License)
